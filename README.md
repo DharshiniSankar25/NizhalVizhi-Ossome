@@ -29,7 +29,7 @@ Forensic Audit Log: A real-time terminal feed showing the internal logic and pro
 Setup Instructions
 Install required dependencies:
 pip install streamlit opencv-python-headless ultralytics numpy
-Ensure your camera is connected and run the application.
-streamlit run app.py
+Ensure your camera is connected and run the application,
+streamlit run app.py by showing the area for all 360degree with a light source falling o the area.
 
 Built for the 2026 Hackathon AIML Track.
