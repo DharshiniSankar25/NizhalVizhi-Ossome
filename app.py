@@ -923,4 +923,4 @@ def main():
         log.add("Webcam released", "info")
 if __name__ == "__main__":
     main()
-sss
+
