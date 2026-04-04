@@ -22,7 +22,7 @@ Session Persistence: Streamlit-optimized state management ensures AI models and 
 
 The Dashboard UI
 The interface is built for both high-level verdicts and deep forensic dives:
-Privacy Health Score: A weighted formula (50% YOLO, 30% Glint, 20% RF) provides an instant security posture.
+Privacy Health Score: A weighted formula (45% YOLO, 30% Glint, 25% RF) provides an instant security posture.
 Signal Transparency: A live table displays every network found, its source (scan, connection, or saved), and its specific threat level.
 Forensic Audit Log: A real-time terminal feed showing the internal logic and processing steps of the engine.
 
